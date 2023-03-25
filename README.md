@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Anas, a recent graduate of the UCI Coding Bootcamp. I'm passionate about coding and enjoy working on a wide range of projects, from simple websites to complex web applications. 
 
