@@ -15,7 +15,7 @@ Here are some of the technologies and tools I'm proficient in:
 ## 📚 Projects
 
 Here are some of the projects I've worked on recently:
-- [Juke Joint](https://juke-joint.herokuapp.com/login): A brief description of the project and your role in it.
+- [Juke Joint](https://juke-joint.herokuapp.com/login): Built a music application that allows users to comment and interact with each other while enjoying endless music.
 
 - [Dyme](https://dyme.herokuapp.com/): Software application designed to help users track their income and expenses and monitor their spending habits.
 
